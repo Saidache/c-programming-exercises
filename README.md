@@ -1,8 +1,8 @@
 ## C Programming Exercises
 This repository contains a series of C programming exercises designed to help beginners and intermediate learners solidify their understanding of fundamental C concepts. The exercises are structured to provide a gradual learning curve, starting with basic syntax and progressing to more advanced topics.
 
-Table of Contents
-## Basics of C Programming
+## Table of Contents
+Basics of C Programming
 
 Control Statements
 
